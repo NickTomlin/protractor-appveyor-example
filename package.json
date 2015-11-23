@@ -1,0 +1,23 @@
+{
+  "name": "protractor-appveyor-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickTomlin/protractor-appveyor-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickTomlin/protractor-appveyor-example/issues"
+  },
+  "homepage": "https://github.com/NickTomlin/protractor-appveyor-example#readme",
+  "devDependencies": {
+    "protractor": "^3.0.0"
+  }
+}
