@@ -5,6 +5,7 @@ install:
   - ps: Install-Product node $env:nodejs_version
   - npm install
   - npm run webdriver
+  - SYSTEMINFO
 test_script:
   - node --version
   - npm --version
